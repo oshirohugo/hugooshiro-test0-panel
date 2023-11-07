@@ -4,7 +4,7 @@ Remove any remaining comments before publishing as these may be displayed on Gra
 
 # Test0
 
-Test 0 plugin - 1.0.1
+Test 0 plugin - 1.0.2
 
 <!-- To help maximize the impact of your README and improve usability for users, we propose the following loose structure:
 
